@@ -1,6 +1,6 @@
 {
-  "name": "funke",
-  "short_name": "funke",
+  "name": "Preact Bulma Sample",
+  "short_name": "preact-bulma",
   "start_url": "/",
   "display": "standalone",
   "orientation": "portrait",

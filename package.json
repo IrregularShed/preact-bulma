@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "funke",
+  "name": "preact-bulma",
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
